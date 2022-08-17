@@ -128,7 +128,7 @@ Print these patterns using loops:
         1   3   3   1
       1   4   6   4   1
  -->
-
+<!-- 
 17.      1
         212
        32123
@@ -136,7 +136,7 @@ Print these patterns using loops:
        32123
         212
          1
-
+ -->
 <!-- 
 18.   **********
       ****  ****
@@ -186,7 +186,7 @@ Print these patterns using loops:
          *   *  *   *
        *      *      *
 
-
+<!-- 
 24.    *        *
        **      **
        * *    * *
@@ -197,29 +197,29 @@ Print these patterns using loops:
        * *    * *
        **      **
        *        *
-
-
+ -->
+<!-- 
 25.       *****
          *   *
         *   *
        *   *
       *****
-
-
+ -->
+<!-- 
 26.   1 1 1 1 1 1
       2 2 2 2 2
       3 3 3 3
       4 4 4
       5 5
       6
-
+ -->
 
 27.   1 2 3 4  17 18 19 20
         5 6 7  14 15 16
           8 9  12 13
             10 11
 
-
+<!-- 
 28.      *
         * *
        * * *
@@ -229,8 +229,8 @@ Print these patterns using loops:
        * * *
         * *
          *
-
-
+ -->
+<!-- 
 29.      
        *        *
        **      **
@@ -241,15 +241,15 @@ Print these patterns using loops:
        ***    ***
        **      **
        *        *
-
-
+ -->
+<!-- 
 30.         1
           2 1 2
         3 2 1 2 3
       4 3 2 1 2 3 4
     5 4 3 2 1 2 3 4 5
-
-
+ -->
+<!-- 
 31.      4 4 4 4 4 4 4  
          4 3 3 3 3 3 4   
          4 3 2 2 2 3 4   
@@ -257,31 +257,31 @@ Print these patterns using loops:
          4 3 2 2 2 3 4   
          4 3 3 3 3 3 4   
          4 4 4 4 4 4 4   
-
-
+ -->
+<!-- 
 32.    E
        D E
        C D E
        B C D E
-       A B C D E
+       A B C D E -->
 
-
+<!-- 
 33.    a
        B c
        D e F
        g H i J
        k L m N o
-     
-
+      -->
+<!-- 
 34.    E D C B A
        D C B A
        C B A
        B A
        A
-       
-
+        -->
+<!-- 
 35.    1      1
        12    21
        123  321
        12344321
-```
+``` -->
